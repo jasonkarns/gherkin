@@ -130,6 +130,19 @@
   then: "*|Dann"
   and: "*|Und"
   but: "*|Aber"
+"en-133t":
+  name: Leet
+  native: Leet
+  feature: pH347Ur3 + BU$1|\|3$$ |\|33D + 4B1L17'/
+  background: B4(|<9r0U|\|D
+  scenario: 5(3|\|4r10
+  scenario_outline: 5(3|\|4r10 0U7L1|\|3 + 5(3|\|4r10 73/\/\PL473
+  examples: 3><4/\/\PL3$ + 5(3|\|4r10$
+  given: "*|91\/3|\|"
+  when: "*|\/\/|-|3|\|"
+  then: "*|7|-|3|\|"
+  and: "*|4|\|D"
+  but: "*|BU7"
 "en-au":
   name: Australian
   native: Australian
